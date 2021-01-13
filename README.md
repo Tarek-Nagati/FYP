@@ -11,4 +11,4 @@ Every image has its own label (for instance, 10_left, the number of image and wh
 3	Severe,
 4	Proliferative Diabetic Retinopathy.
 
-The web like for the dataset is --> https://www.kaggle.com/tanlikesmath/diabetic-retinopathy-resized
+The web link for the dataset is --> https://www.kaggle.com/tanlikesmath/diabetic-retinopathy-resized
